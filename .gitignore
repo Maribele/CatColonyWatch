@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+catcolonywatch.db
+.streamlit/secrets.toml
+.DS_Store
